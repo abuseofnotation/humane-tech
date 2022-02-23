@@ -14,7 +14,7 @@ Technologies (as Marshal McLuhan theorized) can be perceived as *extensions of o
 Humane technologies *solve problems in ways that don't create other problems*.
 ===
 
-Inhumane technologies sometimes leaves us at a state where we have to *remind ourselves why exactly do we use them*. Yes, they benefit us in some ways, but these benefits always come with a cost which seems almost equal to them.
+Inhumane technologies sometimes leaves us at a state where we have to *remind ourselves why exactly do we use them*. Yes, they benefit us in some ways, but these benefits always come with a cost which seems almost equal to the benefits.
 
 This dilemma doesn't exist with humane technologies - *we know exactly why we use them* and their disadvantages always seem superficial, compared to their advantages.
 
@@ -26,9 +26,9 @@ Whether they are broken, or operating as intended, inhumane technologies often *
 Humane technologies *are timeless*.
 ===
 
-Because they are often a result of a compromise, inhumane technologies are *bound to have a due date* - a time when some other alternative would prove to be more performat. Inhumane technologies tend to go out of fashion. Human technologies, on the other hand, are often ancient (due to their simplicity), and at the same time, due to their versatility, they will be there for a long time. 
+Because they are often a result of a compromise, inhumane technologies are *bound to have a due date* - a time when some other alternative would prove to be more performat. Inhumane technologies tend to go out of fashion. Human technologies, on the other hand, are often ancient (due to their simplicity), and at the same time, due to their versatility, eternal.
 
 Humane technologies *are fulfilling to use*.
 ===
 
-An inhumane technology is something that you *pick up to "do your job" and leave it as soon as you are done*, wondering when is a better alternative coming out. They are designed with a specific purpose in mind and they have no other uses. A humane technology often has a variety of purposes (with more to be discovered) and we either cannot imagine our lives without them (if we have used them since birth), or *bless the day we found them*. 
+An inhumane technology is something that you *pick up to "do your job" and leave it as soon as you are done*, wondering when is a better alternative coming out. They are designed with a specific purpose in mind and they have no other uses. A humane technology often has a variety of purposes (with more to be discovered). We use them for more and more things, because using them feels good. We either cannot imagine our lives without them (if we have used them since birth), or *bless the day we found them*. 

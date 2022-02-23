@@ -5,7 +5,7 @@ title: Technology and capitalism
 
 This is an attempt to trace the emergence of non-humane technologies in the context of capitalism. When I talk about capitalism, I won't be talking just about the *political system* and its characteristics such as the practice of free trade, the idea that the market regulates itself etc. Rather, I will talk about the *social structure* which enables this system to exist (talking about just the political system in isolation would be incomplete and, in most cases, decebtful.)
 
-What does that have to do with technology? We will see later (much later, you'll have to read the whole chapter.) But also note *that social structures are also technologies*. And very important ones at that.
+What does that have to do with technology? We will see later (much later, you'll have to read the whole chapter.) But also note *that social structures are also technologies*, and very important ones at that.
 
 <!--more-->
 
@@ -91,9 +91,9 @@ So, while tech companies do come up with ways to improve our lives once in a whi
 
 This is what we can call a *non-human* technology, one that does little to improve the lives of the organization's clients (actual humans), but does a lot to advance the business of the organization that sells the product. 
 
-Non-human technologies range from, gimmicks - useless features that are just there to convince you to buy the new version of the product, to features that might be harmful for you, but they will better the organization's position in the market. Such technologies (non-human) are now the *main driver of economic growth*, which is no wonder, as *they are designed to trigger economic growth*. 
+Non-human technologies range from, gimmicks - useless features that are just there to convince you to buy the new version of the product, to features that might be harmful for you, but they will better the organization's position in the market. Such technologies (non-humane) are now the *main driver of economic growth*, which is no wonder as *they are designed to trigger economic growth*. 
 
-A simple example, that pops to mind right now is the ability to pay on ATM's using your phone of smartwatch - this technology doesn't improve your life in any way, (remember how we had to carry those *heavy* credit cards around whenever we went.) but quite the reverse - it locks you to using specific smartphones and specific payment platforms.
+A simple example, that pops to mind right now is the ability to pay on ATM's using your phone of smartwatch - this technology doesn't improve your life in any way, (remember how we had to carry those *heavy* credit cards around whenever we went), but quite the reverse - it locks you to using specific smartphones and specific payment platforms.
 
 But users would buy the new product, simply because it is new, simply for the sake of participating, simply because this is the way to go.
 
