@@ -1,1 +1,0 @@
-Technology as an extension

@@ -32,3 +32,8 @@ Humane technologies *are fulfilling to use*.
 ===
 
 An inhumane technology is something that you *pick up to "do your job" and leave it as soon as you are done*, wondering when is a better alternative coming out. They are designed with a specific purpose in mind and they have no other uses. A humane technology often has a variety of purposes (with more to be discovered). We use them for more and more things, because using them feels good. We either cannot imagine our lives without them (if we have used them since birth), or *bless the day we found them*. 
+
+Humane technologies *are unimpressive*
+===
+
+Inhumane technologies often *look better than humane ones*, especially to the untrained eye - they are so shiny, so innovative, they look like they bring the promise of a better future. Compared to them, humane technologies *seem plain and uninteresting*. However, all that changes when we put things in perspective.
