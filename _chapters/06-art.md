@@ -11,6 +11,8 @@ And the intercection of those two small groups of people is an even smaller grou
 
 Unless, all that I wrote up to this point is bullshit.
 
+<!--more-->
+
 If we think about it, this gap between art and technology didn't exist throughout most of history - the production of objects that are aestetically pleasing (i.e. what we now call "art"), was just a type of craft, and the production of objects that serve various other purposes (i.e. what we now would call "technology"), were seen as other types of crafts. And there were many overlaps between the two - if you go to an antique art museum, you won't see any paintings, sculptures or weird art installations on display, what you would see, instead, would be carpets, pottery, clothes etc. just ones that are very beautiful. And most of them wouldn't be signed by their creators - that's because people who created these works (whether they are works of art or of technology) weren't perceived as extraordinary in any way, neither by themselves nor from the others. Art was just their job and some of them were just good at it. They were respected for their skills, but nothing more.
 
 All this changed during the industrial revolution with the invention of manufacturing and the concept of division of labour. In order to produce objects at a faster rate, we "outsorced" different part of the process of production, first to unskilled workers, and then to machines. This worked, but the final result had strictly utilitarian purposes - it was no longer art. And so, we invented the concept of an artist as a person who's job is to create art.
