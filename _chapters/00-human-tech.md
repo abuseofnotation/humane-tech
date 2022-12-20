@@ -26,7 +26,7 @@ Whether they are broken, or operating as intended, inhumane technologies often *
 Humane technologies *are timeless*.
 ===
 
-Because they are often a result of a compromise, inhumane technologies are *bound to have a due date* - a time when some other alternative would prove to be more performat. Inhumane technologies tend to go out of fashion. Human technologies, on the other hand, are often ancient (due to their simplicity), and at the same time, due to their versatility, eternal.
+Because they are often a result of a compromise, inhumane technologies are *bound to have a due date* - a time when some other alternative would prove to be more performant. Inhumane technologies tend to go out of fashion. Human technologies, on the other hand, are often ancient (due to their simplicity), and at the same time, due to their versatility, eternal.
 
 Humane technologies *are fulfilling to use*.
 ===
@@ -36,4 +36,4 @@ An inhumane technology is something that you *pick up to "do your job" and leave
 Humane technologies *are unimpressive*
 ===
 
-Inhumane technologies often *look better than humane ones*, especially to the untrained eye - they are so shiny, so innovative, they look like they bring the promise of a better future. Compared to them, humane technologies *seem plain and uninteresting*. However, all that changes when we put things in perspective.
+Inhumane technologies often *look better than humane ones*, especially to the untrained eye - they are so shiny, so innovative, they look like they bring the promise of a better future. Compared to them, humane technologies *seem plain and uninteresting* - they don't promise anything, they just deliver.
