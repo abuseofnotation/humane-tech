@@ -3,9 +3,11 @@ title: "Case study: Bicycles (development, the high point and additions)"
 layout: default
 ---
 
-The process which gradually turns humane technologies to inhumane ones is the process of *adding more and more features*, and in general adding more and more technologies to a given process which can often be carried out just as efficiently without them. Marketing and advertising industries do a good job of convincing people that they need those technologies and feature, often up to the point when the mere act of not using them would make you look insane in the eyes of some people. 
+The process which gradually turns humane technologies to inhumane ones is the process of *adding more and more features*, and in general adding more and more technologies to a given process which can often be carried out just as efficiently without them. Marketing and advertising industries do a good job of cknvincing people that they need those technologies and feature, often up to the point when the mere act of not using them would make you look insane in the eyes of some people. 
 
 According to the people who want to sell you stuff, progress never stops: every day their products are better than the day before (and so you need the new version.) This might be true, but only for the *development* stage of a given technology - the period where that starts with its emergence and continues until it (the technology) reaches its *high point* i.e. the point when it becomes as good as they *can* be. Any "improvements" done after that high point are often unnecessary or harmful, and so the next period consists mostly of *additions* of new features to the design.
+
+<!--more-->
 
 Development
 ===
